@@ -70,3 +70,25 @@ Seeds:
 ```bash
 0gchaind start
 ```
+
+# The end!
+If you liked this guide, please go to all my social networks)
+
+<br>
+<div id="badges" align="center">
+  <a href="https://discord.com/users/961408999411048461">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@James_Brandon">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://keybase.io/jamesbrandon">
+    <img src="https://img.shields.io/badge/Keybase-orange?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
+  </a>
+  <a href="https://x.com/JBTGrox">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://linktr.ee/JBrandon_?utm_source=linktree_admin_share">
+    <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
+  </a>
+</div>
